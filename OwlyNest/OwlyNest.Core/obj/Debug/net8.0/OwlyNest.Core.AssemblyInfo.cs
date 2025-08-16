@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OwlyNest.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68caeed44468f2fce31122dae6720b5c92c6bc44")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3a10c6e4a8e1f545024db805048a95809d241d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("OwlyNest.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OwlyNest.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
