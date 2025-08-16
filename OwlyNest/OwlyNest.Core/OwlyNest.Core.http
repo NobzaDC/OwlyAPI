@@ -1,0 +1,6 @@
+@OwlyNest.Core_HostAddress = http://localhost:5211
+
+GET {{OwlyNest.Core_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
